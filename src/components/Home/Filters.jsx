@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import styled from 'styled-components';
 import moment from 'moment';
 import DatePicker from 'react-datepicker';
@@ -55,14 +55,6 @@ const rangeHandleStyle = {
     borderColor: '#4182EC'
 };
 
-const Input = styled.input`
-    border: 1px solid #4182EC;
-    width: calc(100% - 20px);
-    border-radius: 4px;
-    height: 30px;
-    padding: 0 10px;
-`;
-
 const CheckboxField = styled(FormControlLabel)`
     width: 100%;
 `;
@@ -74,6 +66,17 @@ const EVENT_TYPES = [
     'Immersion',
     'Class'
 ];
+
+const TEACHERS = [
+    'Mendel Romanenko',
+    'Bassam Kubba',
+];
+
+const CITIES = [
+    'New York City',
+    'San Francisco',
+    'Bay Area',
+]
 
 export default class Filters extends Component {
     state = {
@@ -138,13 +141,10 @@ export default class Filters extends Component {
                         onChange={this.handleChangeCity}
                         isMulti={true}
                         isSearchable={true}
-                        options={[{
-                            value: 'NYC',
-                            label: 'NYC',
-                        }, {
-                            value: 'SF',
-                            label: 'SF',
-                        }]}
+                        options={CITIES.map(option => ({
+                            value: option,
+                            label: option,
+                        }))}
                     />
                 </Field>
 
@@ -155,13 +155,10 @@ export default class Filters extends Component {
                         onChange={this.handleChangeTeachers}
                         isMulti={true}
                         isSearchable={true}
-                        options={[{
-                            label: 'Mendel Romanenko',
-                            value: 'Mendel Romanenko',
-                        }, {
-                            label: 'Bassam Kubba',
-                            value: 'Bassam Kubba',
-                        }]}
+                        options={TEACHERS.map(option => ({
+                            value: option,
+                            label: option,
+                        }))}
                     />
                 </Field>
 

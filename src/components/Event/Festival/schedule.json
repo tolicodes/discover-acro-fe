@@ -1,0 +1,297 @@
+[{
+    "date": "08-01-2019",
+    "sessions": [{
+        "name": "Session 1",
+        "timeStart": "10:00 am",
+        "timeEnd": "11:00 am",
+        "classes": [{
+            "name": "Acro Antics",
+            "teachers": ["Jeremy", "Micki"],
+            "levels": ["Intermediate"],
+            "style": "Standing Acro"
+        }, {
+            "name": "When Momix Meets Pilobolus",
+            "teachers": ["Otis", "Rebecca"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "Funky Washing Machines",
+            "teachers": ["Reno", "Laura"],
+            "levels": ["Intermediate", "Advanced"],
+            "style": "Washing Machines"
+        }, {
+            "name": "More Friends More Fun: Trios/Quads",
+            "teachers": ["Kelly", "Eric"],
+            "levels": ["Beginner", "Intermediate"],
+            "style": "Trios & Groups"
+        }, {
+            "name": "Up, Up & Castaway!",
+            "teachers": ["Sean", "Emily"],
+            "levels": ["Advanced"],
+            "style": "Pops"
+        }, {
+            "name": "AcroVinyasa",
+            "teachers": ["Tiffany", "Amy R."],
+            "levels": ["Beginner"],
+            "style": "AcroVinyasa"
+        }]
+    }, {
+        "name": "Session 2",
+        "timeStart": "12:00 pm",
+        "timeEnd": "12:45 pm",
+        "classes": [{
+            "name": "Rock & Roll",
+            "teachers": ["Acro Smiths"],
+            "levels": ["Intermediate", "Advanced"],
+            "style": "Standing Acro"
+        }, {
+            "name": "Adajio",
+            "teachers": ["Sean", "Ashlee"],
+            "levels": ["Expert"],
+            "style": "Standing Acro"
+        }, {
+            "name": "The Royal Tarzan Washing Machine",
+            "teachers": ["Andrew", "Abigail"],
+            "levels": ["Advanced"],
+            "style": "Washing Machines"
+        }, {
+            "name": "AcroWarriors",
+            "teachers": ["Tara, Estefania, Melissa", "Salam"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Trios & Groups"
+        }, {
+            "name": "The Healing Principle: A Guided Thai Exhange",
+            "teachers": ["Dona", "Aiyesha"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Thai"
+        }, {
+            "name": "AwkroYoga",
+            "teachers": ["Zara", "Travis"],
+            "levels": ["Intermediate"],
+            "style": "Uniques"
+        }, {
+            "name": "AcroCore",
+            "teachers": ["Amy I."],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Uniques"
+        }]
+    }, {
+        "name": "Session 3",
+        "timeStart": "12:50 pm",
+        "timeEnd": "1:30 pm",
+        "classes": [{
+            "name": "One Arm Handstand",
+            "teachers": ["Cirque Du Soleil Guest"],
+            "levels": ["Expert"],
+            "style": "Handstand"
+        }, {
+            "name": "Press to Handstand",
+            "teachers": ["Jan Manke"],
+            "levels": ["Advanced"],
+            "style": "Handstand"
+        }, {
+            "name": "Bendy Handstands & Leg Variations",
+            "teachers": ["Ashlee Conlin"],
+            "levels": ["Intermediate", "Advanced"],
+            "style": "Handstand"
+        }, {
+            "name": "Finding Handstand Balance",
+            "teachers": ["Matthew Cursick"],
+            "levels": ["Intermediate"],
+            "style": "Handstand"
+        }, {
+            "name": "Entrances and Exits of Handstands",
+            "teachers": ["Mendel Romanenko"],
+            "levels": ["Beginner", "Intermediate"],
+            "style": "Handstand"
+        }, {
+            "name": "Handstand Foundations",
+            "teachers": ["David Haws"],
+            "levels": ["Beginner"],
+            "style": "Handstand"
+        }, {
+            "name": "Handstand Recovery",
+            "teachers": ["Emily Lesinski DPT"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Handstand"
+        }]
+    }, {
+        "name": "Session 4",
+        "timeStart": "2:45 pm",
+        "timeEnd": "4:30 pm",
+        "classes": [{
+            "name": "Standing H2H Fundamentals",
+            "teachers": ["Max", "Liz"],
+            "levels": ["Beginner", "Intermediate"],
+            "style": "Standing Acro"
+        }, {
+            "name": "H2H Flows",
+            "teachers": ["Jeromy", "Reno"],
+            "levels": ["Advanced"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "Spin Me to Infinity & Beyond!",
+            "teachers": ["Fadi", "Stephanie"],
+            "levels": ["Intermediate"],
+            "style": "Washing Machines"
+        }, {
+            "name": "The World Needs More Butt Massage",
+            "teachers": ["Elenor Bramwell", "Amy R."],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Lunar"
+        }, {
+            "name": "Out of the Acro Box",
+            "teachers": ["Danya", "Taylor'd"],
+            "levels": ["Beginner"],
+            "style": "Uniques"
+        }, {
+            "name": "No Slacking in Slacro",
+            "teachers": ["Megan", "Rob"],
+            "levels": ["Intermediate", "Advanced"],
+            "style": "Slacro"
+        }]
+    }, {
+        "name": "Session 4",
+        "timeStart": "2:45 pm",
+        "timeEnd": "4:30 pm",
+        "classes": [{
+            "name": "Intro Inlocate to Hand to Hand",
+            "teachers": ["Brian K.", "Laura"],
+            "levels": ["Intermediate"],
+            "style": "Standing Acro"
+        }, {
+            "name": "Montreal Flow",
+            "teachers": ["Zara", "Travis"],
+            "levels": ["Beginner", "Intermediate"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "Giraffe Flow",
+            "teachers": ["Amy I."],
+            "levels": ["Intermediate"],
+            "style": "Washing Machines"
+        }, {
+            "name": "Thai'd Up & Thai'd down",
+            "teachers": ["Scoop", "Christina"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Lunar"
+        }, {
+            "name": "Recharge Through Thai Bodywork Bliss",
+            "teachers": ["Jeff", "Lori"],
+            "levels": ["Beginner", "Intermediate", "Advanced"],
+            "style": "Thai"
+        }, {
+            "name": "Pop & Don't Stop: Foundational Tempo Popping",
+            "teachers": ["Danya", "Taylor'd"],
+            "levels": ["Beginner", "Intermediate"],
+            "style": "Pops"
+        }]
+    }]
+}, {
+    "date": "08-01-2019",
+    "sessions": [{
+        "name": "Session 1",
+        "timeStart": "9:30 am",
+        "timeEnd": "11:15 am",
+        "classes": [{
+            "name": "Standing Acro with Lex",
+            "teachers": ["Lex Peters"],
+            "levels": ["Intermediate", "Beginner"],
+            "style": "Standing Acro"
+        }, {
+            "name": "The Muse Flow",
+            "teachers": ["Angela", "Yoni"],
+            "levels": ["Advanced", "Intermediate"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "L-base like a Cheerleader",
+            "teachers": ["Maren", "Jason S."],
+            "levels": ["Intermediate"],
+            "style": "Washing Machines"
+        }, {
+            "name": "Bye Bye Birdie",
+            "teachers": ["Ben, Joy", "Jeremy"],
+            "levels": ["Advanced"],
+            "style": "Trios & Groups"
+        }, {
+            "name": "Foundations for Cheerleading Partner Stunts",
+            "teachers": ["Juliette", "Adam"],
+            "levels": ["Advanced", "Intermediate"],
+            "style": "Uniques"
+        }, {
+            "name": "FUNdamentals of AcroYoga",
+            "teachers": ["Mary", "Lana"],
+            "levels": ["Beginner"],
+            "style": "Acroyoga"
+        }]
+    }, {
+        "name": "Session 2",
+        "timeStart": "11:25 am",
+        "timeEnd": "1:10 pm",
+        "classes": [{
+            "name": "Ready to Relocate",
+            "teachers": ["Scoop", "Christina"],
+            "levels": ["Advanced"],
+            "style": "Standing Acro"
+        }, {
+            "name": "The More You Know: A performance Flow",
+            "teachers": ["Kelly", "Eric"],
+            "levels": ["Intermediate"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "Don't check your guns at the door!",
+            "teachers": ["Fadi", "Steph"],
+            "levels": ["Advanced", "Intermediate"],
+            "style": "Washing Machines"
+        }, {
+            "name": "Equilibre a Trois",
+            "teachers": ["Maren", "Brian"],
+            "levels": ["Intermediate", "Beginner"],
+            "style": "Trios & Groups"
+        }, {
+            "name": "Dynamic cheerleading partner stunts",
+            "teachers": ["Juliette", "Adam"],
+            "levels": ["Advanced"],
+            "style": "Cheer"
+        }, {
+            "name": "Somersaults in Space",
+            "teachers": ["Chris", "Brian"],
+            "levels": ["Advanced", "Intermediate"],
+            "style": "L-Basing"
+        }]
+    }, {
+        "name": "Session 3",
+        "timeStart": "1:30 pm",
+        "timeEnd": "3:15 pm",
+        "classes": [{
+            "name": "Cannonballs",
+            "teachers": ["Ryan Gib.", "Ashlee"],
+            "levels": ["Advanced"],
+            "style": "Standing Acro"
+        }, {
+            "name": "Acrobatic Dance",
+            "teachers": ["Dave", "Zoe"],
+            "levels": ["Intermediate", "Beginner", "Advanced"],
+            "style": "Dynamic Flow & Dance"
+        }, {
+            "name": "Koala-ing Around",
+            "teachers": ["Elise", "Dean"],
+            "levels": ["Intermediate"],
+            "style": "Washing Machines"
+        }, {
+            "name": "Earth to Sky: Thai/Fly",
+            "teachers": ["Laura", "Michelle"],
+            "levels": ["Intermediate", "Beginner", "Advanced"],
+            "style": "Lunar"
+        }, {
+            "name": "Menege a Pop",
+            "teachers": ["Joe", "Micki"],
+            "levels": ["Intermediate", "Beginner"],
+            "style": "Pops"
+        }, {
+            "name": "Acroing From the Start",
+            "teachers": ["Linda", "Diego"],
+            "levels": ["Beginner"],
+            "style": "L-Basing"
+        }]
+    }]
+}]

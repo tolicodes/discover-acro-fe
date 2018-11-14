@@ -4,9 +4,7 @@ import styled from 'styled-components';
 const Header = styled.div`
     height: 40px;
 
-    border: 1px solid #979797;
     background-color: #F15806;
-
 `;
 
 const Container = styled.div`
