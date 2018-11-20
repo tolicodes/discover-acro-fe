@@ -80,7 +80,7 @@ export default () => (
             <HeroContainer>
                 <HeroImg
                     alt="Hero Image"
-                    src="img/event/acro-fest/hero.png"
+                    src="/events/ny-acro-fest/img/hero.png"
                 />
                 <HeroOverlay>
                     <Title>New York Acro Fest 2019</Title>

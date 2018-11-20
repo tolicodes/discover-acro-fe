@@ -18,5 +18,12 @@ export const H1 = styled.h1`
 export const H2 = styled.h2`
     font-size: 22px;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 0;
+`;
+
+export const H3 = styled.h3`
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0;
 `;
